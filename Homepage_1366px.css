@@ -1,0 +1,694 @@
+	.mediaViewInfo {
+		--web-view-name: Homepage - 1366px;
+		--web-view-id: Homepage_-_1366px;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Homepage_-_1366px;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Homepage_-_1366px {
+		position: absolute;
+		width: 1920px;
+		height: 2604px;
+		background-color: rgba(240,240,240,1);
+		overflow: hidden;
+		--web-view-name: Homepage - 1366px;
+		--web-view-id: Homepage_-_1366px;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Base {
+		fill: rgba(38,153,251,1);
+	}
+	.Base {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#NO_ORDINARY_CASE {
+		left: 277px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 185px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#EXAMPLE {
+		left: 1163px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#PRICING {
+		left: 1298px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#LOGIN {
+		left: 1424px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#START_TRIAL {
+		left: 1533px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_1 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 408px;
+		left: 277px;
+		top: 110px;
+	}
+	#Rectangle_3 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 408px;
+		left: 277px;
+		top: 561px;
+	}
+	#Rectangle_5 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 408px;
+		left: 277px;
+		top: 1012px;
+	}
+	#Rectangle_7 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 408px;
+		left: 277px;
+		top: 1463px;
+	}
+	#Rectangle_9 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 408px;
+		left: 277px;
+		top: 1914px;
+	}
+	#Headline__Hero_Box {
+		left: 853px;
+		top: 265px;
+		position: absolute;
+		overflow: visible;
+		width: 215px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(38,153,251,1);
+	}
+	#Welcome_Video_Audioplay_Muted {
+		left: 776px;
+		top: 752px;
+		position: absolute;
+		overflow: visible;
+		width: 369px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(38,153,251,1);
+	}
+	#Instructor_Eco_System {
+		left: 843px;
+		top: 1163px;
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(38,153,251,1);
+	}
+	#Trainer_Dashboard {
+		left: 860px;
+		top: 1614px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(38,153,251,1);
+	}
+	#Frequency_Asked_Question {
+		left: 816px;
+		top: 1959px;
+		position: absolute;
+		overflow: visible;
+		width: 289px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(38,153,251,1);
+	}
+	#Rectangle_2 {
+		fill: rgba(38,153,251,1);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 158px;
+		height: 53px;
+		left: 881px;
+		top: 311px;
+	}
+	#Start_Trial {
+		left: 924px;
+		top: 329px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_-_Image {
+		position: absolute;
+		width: 69.9px;
+		height: 58.243px;
+		left: 925.1px;
+		top: 1236.228px;
+		overflow: visible;
+	}
+	#Path_1 {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_1 {
+		overflow: visible;
+		position: absolute;
+		width: 11.657px;
+		height: 11.657px;
+		left: 14.55px;
+		top: 14.536px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_2 {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 69.9px;
+		height: 58.243px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_-_Image_ {
+		position: absolute;
+		width: 69.9px;
+		height: 58.243px;
+		left: 932.1px;
+		top: 1687.228px;
+		overflow: visible;
+	}
+	#Path_1_ {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_1_ {
+		overflow: visible;
+		position: absolute;
+		width: 11.657px;
+		height: 11.657px;
+		left: 14.55px;
+		top: 14.536px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_2_ {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_2_ {
+		overflow: visible;
+		position: absolute;
+		width: 69.9px;
+		height: 58.243px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_-_Play {
+		position: absolute;
+		width: 40.769px;
+		height: 40.769px;
+		left: 897.615px;
+		top: 797.615px;
+		overflow: visible;
+	}
+	#Path_3 {
+		fill: transparent;
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 40.769px;
+		height: 40.769px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_4 {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_4 {
+		overflow: visible;
+		position: absolute;
+		width: 33.974px;
+		height: 33.975px;
+		left: 3.397px;
+		top: 3.397px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_-_Mute {
+		position: absolute;
+		width: 40.769px;
+		height: 40.769px;
+		left: 941.615px;
+		top: 797.615px;
+		overflow: visible;
+	}
+	#Path_5 {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_5 {
+		overflow: visible;
+		position: absolute;
+		width: 30.577px;
+		height: 30.577px;
+		left: 5.096px;
+		top: 5.096px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_6 {
+		fill: transparent;
+	}
+	.Path_6 {
+		overflow: visible;
+		position: absolute;
+		width: 40.769px;
+		height: 40.769px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_-_Reply {
+		position: absolute;
+		width: 40.769px;
+		height: 40.769px;
+		left: 981.615px;
+		top: 797.615px;
+		overflow: visible;
+	}
+	#Path_7 {
+		fill: transparent;
+	}
+	.Path_7 {
+		overflow: visible;
+		position: absolute;
+		width: 40.769px;
+		height: 40.769px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_8 {
+		fill: rgba(38,153,251,1);
+	}
+	.Path_8 {
+		overflow: visible;
+		position: absolute;
+		width: 27.18px;
+		height: 33.975px;
+		left: 6.795px;
+		top: 1.699px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Base_be {
+		fill: rgba(38,153,251,1);
+	}
+	.Base_be {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 200px;
+		left: 0px;
+		top: 2404px;
+	}
+	#CONTACT_US {
+		left: 327px;
+		top: 2454px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#ID44_345_678_903_adobexdmailco {
+		left: 417px;
+		top: 2454px;
+		position: absolute;
+		overflow: visible;
+		width: 90px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#SERVICES {
+		left: 617px;
+		top: 2454px;
+		position: absolute;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_Us_Ordering__Payment_S {
+		left: 693px;
+		top: 2454px;
+		position: absolute;
+		overflow: visible;
+		width: 92px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#INFORMATION {
+		left: 911px;
+		top: 2454px;
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#About_Adobe_XD_Kit_Work_With_U {
+		left: 995px;
+		top: 2454px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#_AdobeXD_Kit {
+		left: 1526px;
+		top: 2550px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: right;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#social {
+		position: absolute;
+		width: 84px;
+		height: 16.001px;
+		left: 1513px;
+		top: 2454px;
+		overflow: visible;
+	}
+	#Component_11__1 {
+		position: absolute;
+		width: 16px;
+		height: 16.001px;
+		left: 68px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_392 {
+		fill: transparent;
+	}
+	.Rectangle_392 {
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_1_bp {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_1_bp {
+		overflow: visible;
+		position: absolute;
+		width: 8.356px;
+		height: 16px;
+		left: 4px;
+		top: 0.001px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_12__1 {
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		left: 36px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_393 {
+		fill: transparent;
+	}
+	.Rectangle_393 {
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_2_bs {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_2_bs {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 12.978px;
+		left: 0px;
+		top: 1.999px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_13__1 {
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_3_bu {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_3_bu {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#QLorem_ipsum_dolor_sit_amet_co {
+		left: 456px;
+		top: 2001px;
+		position: absolute;
+		overflow: visible;
+		width: 1040px;
+		height: 196px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+
+
+Warnings:
+1. Model already added: Model already added for Artboard named "Homepage_-_1366px"
+2. Border support: Border position "inside" on "Rectangle_1"  is not supported
+3. Border support: Border position "inside" on "Rectangle_3"  is not supported
+4. Border support: Border position "inside" on "Rectangle_5"  is not supported
+5. Border support: Border position "inside" on "Rectangle_7"  is not supported
+6. Border support: Border position "inside" on "Rectangle_9"  is not supported
+7. ID truncated: The auto generated ID starting with 'ID44_345_678_903_ad…' was truncated
+8. ID truncated: The auto generated ID starting with 'Contact_Us_Ordering…' was truncated
+9. ID truncated: The auto generated ID starting with 'About_Adobe_XD_Kit_…' was truncated
+10. ID truncated: The auto generated ID starting with 'QLorem_ipsum_dolor_…' was truncated
+11. Duplicate ID: The Group named, "Icon - Image" on artboard, "Homepage - 1366px" was renamed to, "Icon_-_Image_"
+12. Duplicate ID: The Path named, "Path 1" on artboard, "Homepage - 1366px" was renamed to, "Path_1_"
+13. Duplicate ID: The Path named, "Path 2" on artboard, "Homepage - 1366px" was renamed to, "Path_2_"
+14. Duplicate ID: The Rectangle named, "Base" on artboard, "Homepage - 1366px" was renamed to, "Base_be"
+15. Duplicate ID: The Path named, "Path 1" on artboard, "Homepage - 1366px" was renamed to, "Path_1_bp"
+16. Duplicate ID: The Path named, "Path 2" on artboard, "Homepage - 1366px" was renamed to, "Path_2_bs"
+17. Duplicate ID: The Path named, "Path 3" on artboard, "Homepage - 1366px" was renamed to, "Path_3_bu"
